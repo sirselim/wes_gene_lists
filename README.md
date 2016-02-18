@@ -3,7 +3,7 @@ A curated list of genes used in the filtering steps of exome sequencing pipeline
 
 These pathways gene lists have been extracted from the BROAD GSEA database (http://software.broadinstitute.org/gsea/msigdb/index.jsp)
 
-*(extracted on: **2016-02-18**)*
+*extracted on:* ***2016-02-18***
 
 **NOTE:** you will need to register to get access to the GSEA pages
 
