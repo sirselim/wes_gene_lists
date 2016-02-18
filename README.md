@@ -8,18 +8,13 @@ These pathways gene lists have been extracted from the BROAD GSEA database (http
 **NOTE:** you will need to register to get access to the GSEA pages
 
 ## Ion Transport related
-**ION_TRANSPORT**
-http://software.broadinstitute.org/gsea/msigdb/cards/ION_TRANSPORT.html
-**REACTOME_ION_CHANNEL_TRANSPORT**
-http://software.broadinstitute.org/gsea/msigdb/cards/REACTOME_ION_CHANNEL_TRANSPORT.html
-**REACTOME_ION_TRANSPORT_BY_P_TYPE_ATPASES**
-http://software.broadinstitute.org/gsea/msigdb/cards/REACTOME_ION_TRANSPORT_BY_P_TYPE_ATPASES.html
-**ION_TRANSMEMBRANE_TRANSPORTER_ACTIVITY**
-http://software.broadinstitute.org/gsea/msigdb/cards/ION_TRANSMEMBRANE_TRANSPORTER_ACTIVITY.html
-**ION_CHANNEL_ACTIVITY**
-http://software.broadinstitute.org/gsea/msigdb/cards/ION_CHANNEL_ACTIVITY.html
-**ION_BINDING**
-http://software.broadinstitute.org/gsea/msigdb/cards/ION_BINDING.html
+  
+  - **ION_TRANSPORT** http://software.broadinstitute.org/gsea/msigdb/cards/ION_TRANSPORT.html
+  - **REACTOME_ION_CHANNEL_TRANSPORT** http://software.broadinstitute.org/gsea/msigdb/cards/REACTOME_ION_CHANNEL_TRANSPORT.html
+  - **REACTOME_ION_TRANSPORT_BY_P_TYPE_ATPASES** http://software.broadinstitute.org/gsea/msigdb/cards/REACTOME_ION_TRANSPORT_BY_P_TYPE_ATPASES.html
+  - **ION_TRANSMEMBRANE_TRANSPORTER_ACTIVITY** http://software.broadinstitute.org/gsea/msigdb/cards/ION_TRANSMEMBRANE_TRANSPORTER_ACTIVITY.html
+  - **ION_CHANNEL_ACTIVITY** http://software.broadinstitute.org/gsea/msigdb/cards/ION_CHANNEL_ACTIVITY.html
+  - **ION_BINDING** http://software.broadinstitute.org/gsea/msigdb/cards/ION_BINDING.html
 
 ## CNS related
 **CENTRAL_NERVOUS_SYSTEM_DEVELOPMENT
